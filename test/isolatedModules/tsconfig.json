@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"module": "amd",
+		"isolatedModules": true,
+		"declaration": true
+	},
+	"exclude": [
+		"excluded-file.ts",
+		"excluded-dir"
+	]
+}

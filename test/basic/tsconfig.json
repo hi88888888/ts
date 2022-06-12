@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"declaration": true,
+		"module": "amd",
+		"outDir": "js",
+		"declarationDir": "dts",
+		"types": [],
+		"incremental": true
+	},
+	"files": [
+		"test-3.ts",
+		"other-3.ts"
+	]
+}
